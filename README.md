@@ -2,27 +2,24 @@
 <a href="https://facebook.com/tranvankhanh.41">
   <img align="left" alt="Pluto's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://twitter.com/TrnVnKh23485720">
+<a href="https://twitter.com/eskazemi">
   <img align="left" alt="Khánh Pluto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/eskazemi/">
   <img align="left" alt="Khánh Pluto LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/31hhouuwz65y7cr3falakxsph3pu">
-  <img align="left" alt="Pluto's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=khanh41.khanh41)
 
 <br />
 
-Hi, I'm [Khánh](https://twitter.com/TrnVnKh23485720), a passionate self-taught AI Engineer and DevOps from Vietnam. I always want build the AI systems to help people in the world: mentality, medical, science,... 🌸. 
+Hi, I'm [Esmaeil kazemi](https://twitter.com/TrnVnKh23485720), a passionate self-taught AI Engineer and Developer from world. I always want build the AI systems to help people in the world: mentality, medical, science,... 🌸. 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@khanhpluto](https://twitter.com/TrnVnKh23485720);
+- 📫 How to reach me: [@eskazemi](https://www.linkedin.com/in/eskazemi/);
 - 📝 [Resume](https://drive.google.com/file/d/1Ps_K1rw4SY9amdNmc1nRMjLxPCBvQZhx/view?usp=sharing)
 
 **Languages and Tools:**  
