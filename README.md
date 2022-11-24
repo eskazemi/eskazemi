@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
+  
+<br/>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -44,20 +46,9 @@ Here are some ideas to get you started:
 </div>  
 
 
-📊 **My experience :** 🏆
-<!--START_SECTION:waka-->
-```text
-Python                    3 years     █████████████████████░░░░  
-Machine Learning          1 Month     ██░░░░░░░░░░░░░░░░░░░░░░░ 
-Fastapi                   8 Month     ████████░░░░░░░░░░░░░░░░░   
-Go                        1 Month     ██░░░░░░░░░░░░░░░░░░░░░░░
-Django                    1.5 years   ███████████░░░░░░░░░░░░░░   
-```
-<!--END_SECTION:waka-->
-
 📈 My GitHub Stats
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=seyyedaliayati&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyyedaliayati&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=eskazemi&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskazemi&theme=react&layout=compact" />
    <img src="https://github-readme-stats.vercel.app/api?username=eskazemi&show_icons=true&theme=gotham" alt="Esmail kazemi" />
 </p>
