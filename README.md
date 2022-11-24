@@ -40,9 +40,11 @@ Here are some ideas to get you started:
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.esmaeilkazemi@gmail.com)
   
 </div>  
- 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br />
 
+<p align= "center">
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</p>
 
 📈 My GitHub Stats
 <p align= "center">
