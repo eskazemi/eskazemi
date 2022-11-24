@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **python, go and AI.**
 
-- 👯 I’m looking to collaborate on **Python and Django projects**
+- 👯 I’m looking to collaborate on **Python, AI and FastAPI projects**
 
 - 📫 How to reach me: **m.esmaeilkazemi@gmail.com**
 
-- ⚡ What I like to do: **Reading 📖, swimming 🏊‍♀️ and mountaineering 🏔...and coding 💻 of course + listening to music 🎵**
+- ⚡ What I like to do: **Reading 📖, mountaineering 🏔...and coding 💻 of course + listening to music 🎵**
 
 <br />
 
@@ -52,3 +52,7 @@ Here are some ideas to get you started:
   <img height= "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskazemi&theme=react&layout=compact" />
    <img src="https://github-readme-stats.vercel.app/api?username=eskazemi&show_icons=true&theme=gotham" alt="Esmail kazemi" />
 </p>
+
+------
+
+Last Edited on: 2022/11/24
