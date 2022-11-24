@@ -1,7 +1,22 @@
+<!--
+**seyyedmohammadesmaeilkazemi/seyyedmohammadesmaeilkazemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/eskazemi">
-  <img align="left" alt="Khánh Pluto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+<h1 align="center">Hi 👋, I am Seyyed Ali Ayati <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">a passionate self-taught AI Engineer and Developer from world. I always want build the AI systems to help people in the world: mentality, medical, science,...</h3>
+
+<!-- - 🔭 I’m currently working on my **Python Course** -->
+<!-- - 🔭 I’m currently working on my **Python Course** -->
+
+- 🌱 I’m currently learning **Rust, C and C++.**
+
+- 👯 I’m looking to collaborate on **Python and Django projects**
+
+- 📫 How to reach me: **seyyedaliayati@gmail.com**
+
+- ⚡ What I like to do: **Reading 📖, swimming 🏊‍♀️ and mountaineering 🏔...and coding 💻 of course + listening to music 🎵**
+
+
 <a href="https://www.linkedin.com/in/eskazemi/">
   <img align="left" alt="Khánh Pluto LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -9,8 +24,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=eskazemi)
 
 <br />
-
-Hi, I'm [Esmaeil kazemi](https://twitter.com/TrnVnKh23485720), a passionate self-taught AI Engineer and Developer from world. I always want build the AI systems to help people in the world: mentality, medical, science,... 🌸. 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
