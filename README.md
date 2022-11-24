@@ -1,25 +1,30 @@
 <!--
-**seyyedmohammadesmaeilkazemi/seyyedmohammadesmaeilkazemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seyyedaliayati/seyyedaliayati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<h1 align="center">Hi 👋, I am Seyyed Ali Ayati <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">a passionate self-taught AI Engineer and Developer from world. I always want build the AI systems to help people in the world: mentality, medical, science,...</h3>
+Here are some ideas to get you started:
+### Hi there 👋
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<h1 align="center">Hi 👋, I am Seyyed Mohammad Esmaeil Kazemi <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">A passionate software engineer and a professional software developer who has experienced and is familiar with different programming languages, design patterns, clean code priciples, and robust architectures.</h3>
 
 <!-- - 🔭 I’m currently working on my **Python Course** -->
-<!-- - 🔭 I’m currently working on my **Python Course** -->
 
-- 🌱 I’m currently learning **Rust, C and C++.**
+- 🌱 I’m currently learning **python, go and AI.**
 
 - 👯 I’m looking to collaborate on **Python and Django projects**
 
-- 📫 How to reach me: **seyyedaliayati@gmail.com**
+- 📫 How to reach me: **m.esmaeilkazemi@gmail.com**
 
 - ⚡ What I like to do: **Reading 📖, swimming 🏊‍♀️ and mountaineering 🏔...and coding 💻 of course + listening to music 🎵**
-
-
-<a href="https://www.linkedin.com/in/eskazemi/">
-  <img align="left" alt="Khánh Pluto LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=eskazemi)
 
