@@ -26,17 +26,13 @@ Here are some ideas to get you started:
 
 - ⚡ What I like to do: **Reading 📖, swimming 🏊‍♀️ and mountaineering 🏔...and coding 💻 of course + listening to music 🎵**
 
+<br />
+
 ![](https://visitor-badge.glitch.me/badge?page_id=eskazemi)
 
 <br />
+<br />
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-  
-<br/>
-
-<h3 align="center">Connect with me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eskazemi/)
@@ -44,6 +40,8 @@ Here are some ideas to get you started:
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.esmaeilkazemi@gmail.com)
   
 </div>  
+ 
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 📈 My GitHub Stats
