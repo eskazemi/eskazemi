@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <img height= "180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskazemi&theme=react&layout=compact" />
 </div>
 
-<div style="text-align: center">
+<div style="display:flex; justify-content:center; align-items:center;">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eskazemi&theme=tokyonight" alt="Esmail kazemi" />
 </div>
 
