@@ -47,12 +47,12 @@ Here are some ideas to get you started:
 </p>
 
 📈 My GitHub Stats
-<p class="flex items-center justify-center">
-  <img height= "180" src="https://github-readme-stats.vercel.app/api?username=eskazemi&theme=gotham&show_icons=true&include_all_commits=true" />
-  <img height= "180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskazemi&theme=react&layout=compact" />
+<p align="center>
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=eskazemi&theme=gotham&show_icons=true&include_all_commits=true" />
+  <img height= "150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskazemi&theme=react&layout=compact" />
 </p>
 
-<p style="display:flex; justify-content:center; align-items:center;">
+<p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eskazemi&theme=tokyonight" alt="Esmail kazemi" />
 </p>
 
