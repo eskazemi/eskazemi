@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on my **Python Course** -->
 
-- 🌱 I’m currently learning **python, go , rust.**
+- 🌱 I’m currently learning **Python, Go , Rust.**
 
 - 👯 I’m looking to collaborate on **Python, AI and FastAPI projects**
 
