@@ -30,7 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eskazemi&show_icons=true&locale=en" alt="eskazemi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eskazemi&" alt="eskazemi" /></p>
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eskazemi&theme=tokyonight" alt="Esmail kazemi" />
-</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eskazemi&" alt="eskazemi" /></p>
+
